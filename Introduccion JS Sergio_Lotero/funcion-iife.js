@@ -1,0 +1,5 @@
+const client = 'Edwar';
+
+(function () {
+
+})
